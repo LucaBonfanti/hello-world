@@ -1,6 +1,6 @@
 # hello-world
 Repository iniziale di test
 
-Prova di cerazione ed edit repository
+Prova di creazione ed edit repository
 
 
